@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Staymate – Your Ultimate Companion for Living in Dublin
-
 Finding accommodation in Dublin can be challenging, but Staymate makes it easier. Whether you're a newcomer or a long-time resident, Staymate helps you discover available housing and connect with landlords all in one place.
 
 ## Key Features
