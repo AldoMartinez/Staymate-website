@@ -26,3 +26,9 @@ The app combines property listings, roommate matching, and real-time notificatio
 - **Ads:** Google AdMob
 
 ## Screenshots
+<img src="https://github.com/user-attachments/assets/eac2365e-f4df-4024-8ffb-120d748e92ba" alt="Staymate Screenshot" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/42531432-2c20-4f09-bc2c-8ba1a87eb7fb" alt="Staymate Screenshot" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/f5c7ff41-ab51-45cd-8aa0-55a103810ab4" alt="Staymate Screenshot" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/fb95a0eb-d1db-4e2c-802d-74897afc9156" alt="Staymate Screenshot" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/a6da027b-379f-4305-b3e1-809a999a0eef" alt="Staymate Screenshot" width="300" height="600">
+<img src="https://github.com/user-attachments/assets/880891a5-3010-486d-b9b8-316374d2ee1d" alt="Staymate Screenshot" width="300" height="600">
