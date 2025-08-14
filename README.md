@@ -32,3 +32,8 @@ The app combines property listings, roommate matching, and real-time notificatio
 <img src="https://github.com/user-attachments/assets/fb95a0eb-d1db-4e2c-802d-74897afc9156" alt="Staymate Screenshot" width="300" height="600">
 <img src="https://github.com/user-attachments/assets/a6da027b-379f-4305-b3e1-809a999a0eef" alt="Staymate Screenshot" width="300" height="600">
 <img src="https://github.com/user-attachments/assets/880891a5-3010-486d-b9b8-316374d2ee1d" alt="Staymate Screenshot" width="300" height="600">
+
+## Installation
+Staymate is available on the **App Store** and **PlayStore**:  
+- [AppStore](https://apps.apple.com/us/app/staymate/id6743756503)
+- [PlayStore](https://play.google.com/store/apps/details?id=dev.aldomartinez.staymate&hl=en_IE)
